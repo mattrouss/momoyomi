@@ -1,4 +1,4 @@
-# Manga Sync
+# Momoyomi 🍑
 
 Self-hosted services for manga download and sync with Kobo devices.
 
@@ -12,4 +12,5 @@ Self-hosted services for manga download and sync with Kobo devices.
 ## Credits
 
 manga-sync uses:
-- [kaizoku](https://github.com/oae/kaizoku) by [oae](https://github.com/oae) for manga donwload and scheduling
+- [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) for manga donwload and scheduling
+- [komga](https://github.com/gotson/komga) for library management and Kobo device sync
